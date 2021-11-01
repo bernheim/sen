@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
         "pdf",
         "ejs",
         "woff2",
+        "ico",
         "html"
       ]);
     return {

@@ -72,7 +72,7 @@ body {
     background-color: rgba(40, 40, 40, 0.6);
     padding: .6em;
     z-index: 4;
-    width: 20em;
+    width: 15em;
     font-size: small;
   }
 
@@ -105,5 +105,6 @@ body {
       margin-bottom: 12vh;
       font-size: inherit;
       font-size: 100%;
+      width: 20em;
     }
   }
