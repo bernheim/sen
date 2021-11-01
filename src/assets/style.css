@@ -73,6 +73,7 @@ body {
     padding: .6em;
     z-index: 4;
     width: 20em;
+    font-size: small;
   }
 
   @media screen and (min-width: 1000px) {
