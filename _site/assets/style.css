@@ -73,7 +73,6 @@ body {
     padding: .6em;
     z-index: 4;
     width: 20em;
-    font-size: 150%;
   }
 
   @media screen and (min-width: 1000px) {
@@ -104,5 +103,6 @@ body {
       margin-top: -12vh;
       margin-bottom: 12vh;
       font-size: inherit;
+      font-size: 100%;
     }
   }
