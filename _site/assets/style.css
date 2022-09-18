@@ -49,7 +49,7 @@ body {
   }
 
   main {
-    font-size: x-large;
+    font-size: large;
     text-align: center;
   }
 
@@ -75,6 +75,12 @@ body {
     width: 15em;
     font-size: small;
   }
+  span.quote-attribution {
+    font-style: italic;
+  }
+  blockquote {
+    margin-block-end: 0;
+  }
 
   @media screen and (min-width: 1000px) {
     main div.homepage-section {
@@ -85,6 +91,9 @@ body {
       width: initial;
       justify-content: initial;
       font-size: large;
+    }
+    main {
+      font-size: x-large;
     }
     h1 {
       position: sticky;
