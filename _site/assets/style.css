@@ -75,11 +75,15 @@ body {
     width: 15em;
     font-size: small;
   }
-  span.quote-attribution {
-    font-style: italic;
-  }
+
   blockquote {
     margin-block-end: 0;
+    font-size: 200%;
+    transform: skew(-13deg);
+  }
+  span.quote-attribution {
+    font-style: italic;
+    
   }
 
   @media screen and (min-width: 1000px) {
